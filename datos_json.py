@@ -102,20 +102,3 @@ if __name__ == '__main__':
     # print('Monto total empleado: ', monto_empleado)
     print(mas_vendido)
     # print('Producto mas facturado: ', facturado_mayor)
-
-'''
-EJERCICIOS:
-
-27-8
-1 - Agregar al json la informacion de los precios de cada ventas_producto
-2 - Posteriormente crear una funcion que devuelva el monto total por empleado
-3 - Posteriormente crear una funcion que devuelva el monto total por producto
-4 - Funcion que devuelva el producto que mas se vendio
-5 - Funcion que devuelva el producto que mas facturo
-
-3-9
-1 - Lo anterior sigue andando?
-2 - Dados dos empleados y un producto que me diga quien vendio mas de eso
-3 - Funcion que me diga cuales es el que tiene mas ventas y mas facturacion si es que existe
-4 - Funcion que me indique total de ventas de productos / total de empleados. Sacar promedio por empleado y luego promedio total
-'''
