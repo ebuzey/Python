@@ -1,0 +1,26 @@
+{
+  "empleados": [{
+      "nombre": "Shyam",
+      "correo electrónico": "shyamjaiswal@gmail.com",
+      "ventas": {"notebook": 25, "mouse": 15, "celular": 5}
+    },
+    {
+      "nombre": "Bob",
+      "correo electrónico": "bob32@gmail.com",
+      "ventas": {"monitor": 2, "mouse": 21, "teclados": 25}
+    },
+    {
+      "nombre": "Jai",
+      "correo electrónico": "jai87@gmail.com",
+      "ventas": {"notebook": 25, "mouse": 5, "celular": 25, "auricular": 2}
+    }
+  ],
+  "precios": {
+    "notebook": 25000,
+    "mouse": 750,
+    "teclados": 1200,
+    "monitor": 15000,
+    "celular": 40000,
+    "auriculares": 500
+  }
+}
